@@ -1,5 +1,4 @@
 # Deploying static projects utilizing Git hooks
-
 ## Prerequisites
 * You must have [git](https://git-scm.com/downloads) and [xcode](https://developer.apple.com/xcode/) installed
 * You must have a [Ubuntu 16.04.02](https://github.com/spencerlee200/static-sites-pipeline/blob/master/setup.md) server set up
