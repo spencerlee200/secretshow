@@ -125,6 +125,7 @@ server {
 ```
 
 Next just refresh nginx with the command below:
+
 ```shell
 sudo systemctl reload nginx
 ```
